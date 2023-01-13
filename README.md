@@ -22,7 +22,7 @@ https://genuine-otter-a37f5c.netlify.app
 
 - `Bar chart is updating in real time` whenever any updation happend in user's completed field. For example, If you change any user completed state to true or false, you will see the updation in completed count of respective user without refreshing the page.
 
-# Since it was a test task, I completed it according to the doc's instructions while also taking the deadline into consideration but IMO we can further improve the task:
+### Since it was a test task, I completed it according to the doc's instructions while also taking the deadline into consideration but IMO we can further improve the task:
 - We can use scss styles to make more generic styles.
 - We can integrate Axios and create custom hook for calling an API.
 - We can integrate react-query to further improve the `caching funtionality` and API calling.
